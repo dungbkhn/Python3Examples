@@ -1,0 +1,9 @@
+#for run trayicon
+sudo apt-get install gir1.2-appindicator3
+
+
+
+sudo apt-get install python-gobject
+
+#messgae box
+sudo apt-get install python3-tk 
